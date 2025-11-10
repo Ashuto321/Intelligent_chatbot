@@ -2,7 +2,6 @@
 
 ✨ Overview
 
-
 The Multilingual ChatBot Application is an AI-driven chatbot capable of interacting in multiple languages, providing seamless communication and enhancing user experience.
 
 💪 Features
